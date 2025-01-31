@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-backup-seven-phi.vercel.app/:match*"
+      "destination": "https://api.liyunfei.eu.org/:match*"
     }
   ]
 }
